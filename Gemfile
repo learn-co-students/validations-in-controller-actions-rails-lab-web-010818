@@ -14,3 +14,5 @@ end
 
 group :development do
 end
+
+gem 'awesome_print'
